@@ -1,2 +1,9 @@
 
+<<<<<<< HEAD
 # my-portfolio
+=======
+A boilrplate react portfolio to showcase your projects and work
+Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
+
+![](test.gif)
+>>>>>>> 6a11d45 (Update README.md)
